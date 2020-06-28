@@ -20,4 +20,7 @@
   <dd> Name
   <dd> Location
 <br>
-<img src = "images/search.PNG" width="600">
+<img src = "images/search.PNG" width="400">
+<br>
+<h3>Find Departement By Id</h3>
+<img src = "images/find.PNG" width="600">
