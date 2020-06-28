@@ -19,4 +19,5 @@
   <dd> No
   <dd> Name
   <dd> Location
+<br>
 <img src = "images/search.PNG" width="600">
