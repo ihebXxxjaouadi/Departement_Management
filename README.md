@@ -1,5 +1,12 @@
 # Departement_Management
 
+## Before run the application you need to import the file "mydata.sql" in wamp or xamp server to prepare the DATABASE. 
+## open your Neetbeans or Jetbrain IDE and Open the project.
+## Then You Should to import package from the folder "java_package/Myommon.Jar" in your project.
+## Run your project 
+## userName: "admin"/ password:"admin"
+
+ 
 <h3>Login Form</h3>
 <img src = "images/Login.PNG" width="400">
 <br>
