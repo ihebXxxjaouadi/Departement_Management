@@ -1,9 +1,9 @@
 # Departement_Management
 
-<p> Before run the application you need to import the file "mydata.sql" in wamp or xamp server to prepare the DATABASE.<wbr> 
- open your Neetbeans or Jetbrain IDE and Open the project.<wbr>
- Then You Should to import package from the folder "java_package/Myommon.Jar" in your project.<wbr>
- Run your project <wbr>
+<p> Before run the application you need to import the file "mydata.sql" in wamp or xamp server to prepare the DATABASE.<br> 
+ open your Neetbeans or Jetbrain IDE and Open the project.<br>
+ Then You Should to import package from the folder "java_package/Myommon.Jar" in your project.<br>
+ Run your project <br>
  userName: "admin"/ password:"admin" </p>
  <br>
 
