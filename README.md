@@ -10,17 +10,17 @@
 <img src = "images/add_dept.PNG" width="600">
 <br>
 <h3>Update and Delete Departement</h3>
-<h4> When You Select Row From The Table, Update and Delete Buttons Will Be Able To Delete or Update The Data Of The Row That You Selectes. </h4>
+<h4> When you select row From the table, Update and Delete buttons will be able to Delete or Update the Data of the row that you selectes. </h4>
 <img src = "images/update.PNG" width="600">
 <br>
 <h3>Search Departement From The Table</h3>
-<dl>
-  <dt> You can Search the departement By
-  <dd> No
-  <dd> Name
-  <dd> Location
-<br>
+<h4> able to search the departement By <h4>
+<ul>
+  <li>Number</li>
+  <li>Name</li>
+  <li>Location</li>
+</ul>
 <img src = "images/search.PNG" width="400">
 <br>
-<h3>Find Departement By Id</h3>
+<h3>Find departement by ID</h3>
 <img src = "images/find.PNG" width="600">
