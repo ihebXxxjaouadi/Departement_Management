@@ -10,7 +10,7 @@
 <img src = "images/add_dept.PNG" width="600">
 <br>
 <h3>Update and Delete Departement</h3>
-<h4> When you select row From the table, Update and Delete buttons will be able to Delete or Update the Data of the row that you selectes. </h4>
+<h4> When you select row From the table, Update and Delete buttons will be able to Delete or Update the Data of the row that you selected. </h4>
 <img src = "images/update.PNG" width="600">
 <br>
 <h3>Search Departement From The Table</h3>
